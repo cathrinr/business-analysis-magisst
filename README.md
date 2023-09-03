@@ -1,4 +1,4 @@
-# business-analysis-magist
+# Doing a business analysis for Magist
 
 Fictional case study: As a member of the business analysis team of a company named ENIAC, we were to analyze numbers from a potential business partner MAGIST, that was being considered to help entering the brazilian market.
 ENIAC is an online marketplace specializing in Apple-compatible accessories and therefore aiming to become a relevant player the high end price segment. 
